@@ -1,26 +1,40 @@
 # titanic-eda-shirleen
 Exploratory Data Analysis on Titanic dataset
-# 🛳️ Titanic EDA Project (Shirleen Simon)
+# 🛳️ Titanic Dataset Exploratory Data Analysis (EDA) – Shirleen Simon
 
-This project presents an **Exploratory Data Analysis (EDA)** of the Titanic dataset from Kaggle.  
-It explores patterns and relationships in the data to better understand survival rates and identify important features.
+This project involves a comprehensive exploratory data analysis (EDA) of the Titanic dataset. The objective was to uncover hidden patterns, identify factors affecting passenger survival, and prepare the dataset for future modeling.
 
-🔗 [View the original notebook on Kaggle](https://www.kaggle.com/code/shirleensimon/titanic-eda-shirleen)
+🔗 [View Full Notebook on Kaggle](https://www.kaggle.com/code/shirleensimon/titanic-dataset-eda-project-shirleen)  
+📄 [Download EDA Report (PDF)](./Shirleen_Simon_EDA.pdf)
 
-📄 [Download the PDF write-up](./Titanic_EDA_Summary_Shirleen.pdf)
+---
+
+## 📌 Key Lessons Learned
+
+- Developed a deeper understanding of EDA techniques using Python libraries like Pandas, Seaborn, and Matplotlib.
+- Learned how to identify and handle missing values, duplicates, and outliers.
+- Explored univariate, bivariate, and multivariate relationships in the dataset.
+- Discovered the significance of features like gender, passenger class, and family size on survival outcomes.
+- Improved documentation and presentation of insights through visualizations and markdown annotations.
+
+---
+
+## 🗂️ Project Structure
+
+
 
 ---
 
 ## 📁 Project Structure
 
-titanic-eda/
-├── data/  
-│   └── train.csv  
-├── notebooks/  
-│   └── titanic_eda.ipynb  
-├── Titanic_EDA_Summary_Shirleen.pdf  
-├── requirements.txt  
-└── README.md  
+Titanic-EDA-Shirleen/
+├── data/
+│ └── titanic.csv # Raw dataset
+├── notebooks/
+│ └── titanic-eda-shirleen.ipynb # Jupyter notebook with EDA
+├── Shirleen_Simon_EDA.pdf # PDF write-up of the EDA process
+├── requirements.txt # List of dependencies
+└── README.md # Project overview 
 
 ---
 
