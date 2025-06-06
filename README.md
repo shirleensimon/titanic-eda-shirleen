@@ -55,6 +55,12 @@ Titanic-EDA-Shirleen/
 
 ---
 
+## 🔚 Conclusion
+
+The Titanic EDA project provided valuable insights into the factors influencing passenger survival, revealing strong correlations with gender, passenger class, and age. Through systematic analysis and visualization, this project demonstrated the importance of clean data and thoughtful feature exploration in uncovering meaningful patterns for future predictive modeling.
+
+---
+
 ## ▶️ How to Run
 
 To run this notebook locally:
