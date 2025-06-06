@@ -20,7 +20,7 @@ Titanic-EDA-Shirleen/
 ├── data/
 │ └── titanic.csv # Raw dataset
 ├── notebooks/
-│ └── titanic-eda-shirleen.ipynb # Jupyter notebook with EDA
+│ └── titanic-dataset-eda-project-shirleen.ipynb # Jupyter notebook with EDA
 ├── Shirleen_Simon_EDA.pdf # PDF write-up of the EDA process
 ├── requirements.txt # List of dependencies
 └── README.md # Project overview 
