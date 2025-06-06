@@ -5,7 +5,6 @@ Exploratory Data Analysis on Titanic dataset
 This project involves a comprehensive exploratory data analysis (EDA) of the Titanic dataset. The objective was to uncover hidden patterns, identify factors affecting passenger survival, and prepare the dataset for future modeling.
 
 🔗 [View Full Notebook on Kaggle](https://www.kaggle.com/code/shirleensimon/titanic-dataset-eda-project-shirleen)  
-📄 [Download EDA Report (PDF)](./Shirleen_Simon_EDA.pdf)
 
 ---
 
