@@ -9,18 +9,7 @@ This project involves a comprehensive exploratory data analysis (EDA) of the Tit
 
 ---
 
-## 📌 Key Lessons Learned
-
-- Developed a deeper understanding of EDA techniques using Python libraries like Pandas, Seaborn, and Matplotlib.
-- Learned how to identify and handle missing values, duplicates, and outliers.
-- Explored univariate, bivariate, and multivariate relationships in the dataset.
-- Discovered the significance of features like gender, passenger class, and family size on survival outcomes.
-- Improved documentation and presentation of insights through visualizations and markdown annotations.
-
 ---
-
-## 🗂️ Project Structure
-
 
 
 ---
